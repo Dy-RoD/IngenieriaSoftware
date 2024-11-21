@@ -3,7 +3,7 @@
 Este es el prototipo creado para el proyecto final de la asignatura Ingeniería de Software.
 
 > [!IMPORTANT]
-> Necesita las siguientes credenciales para poder iniciar sesion y ver como el programa simula cada usuario involucrado en el proyecto:
+> Necesita las siguientes credenciales para poder iniciar sesion y ver como el programa simula un comportamiento específico para cada usuario involucrado en el proyecto:
 
 ## Nombre de Usuarios Para Cada Rol:
 - Admin: Usuario administrador, tiene la facultad de poder modificar cada apartado de la aplicación.
