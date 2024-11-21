@@ -1,0 +1,19 @@
+
+
+.searchPA{
+    --padding-left: 15px;
+    --background: #ECECEC;
+    color: black;
+}
+
+.searchPA Busqueda{
+    padding-top: 5px;
+}
+
+.menuBtn{
+    color: black;
+    --background: transparent;
+    --border: none;
+    --box-shadow: none;
+    --text-transform: capitalize;
+}

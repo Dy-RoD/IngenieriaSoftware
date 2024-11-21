@@ -1,0 +1,27 @@
+.crud-popover {
+    --max-width: 600px;  /* Puedes ajustar el tamaño máximo según lo desees */
+    --min-width: 300px;  /* Puedes ajustar el tamaño mínimo */
+    --border-radius: 10px; /* Esquinas redondeadas */
+    --background: rgba(0, 0, 0, 0.5); /* Fondo oscuro semitransparente */
+    --padding: 20px; /* Agregar algo de padding */
+  }
+  
+  .crud-popover .popover-content {
+    position: fixed !important; /* Asegura que se posicione en la pantalla */
+    top: 50% !important; /* Centrado vertical */
+    left: 50% !important; /* Centrado horizontal */
+    transform: translate(-50%, -50%) !important; /* Ajuste fino para centrar el popover */
+  }
+  
+  .crud-popover .popover-wrapper {
+    background-color: rgba(0, 0, 0, 0.3); /* Fondo oscuro opaco */
+    position: fixed; /* Fija el popover sobre el contenido */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1000; /* Asegura que el popover esté sobre otros elementos */
+  }
+.crud-popover h3 {
+    padding-left: 15px;
+}
