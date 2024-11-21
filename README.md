@@ -10,4 +10,4 @@ Este es el prototipo creado para el proyecto final de la asignatura Ingeniería 
 - Colaborador: Trabajador o prestador de servicios, este puede manipular ciertos apartados del software.
 - Cliente: El cliente tiene pocas funcionalidades dentro de la aplicación y este solo cuenta con la lectura de datos, es decir, no puede ni agregar, modificar ni eliminar.
 
-La contraseña, al ser un prototipo, se definió como `12345`, para facilitar el inicio de sesión.
+La contraseña, al ser un prototipo, se definió como `12345` (para todos los usuarios), para facilitar el inicio de sesión.
